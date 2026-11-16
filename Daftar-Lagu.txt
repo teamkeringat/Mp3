@@ -1,40 +1,41 @@
-Satu Suara Enam Penjuru | https://teamkeringat.github.io/Mp3/1Suara6Penjuru.mp3
-Tiga Soal Satu Jawaban | https://teamkeringat.github.io/Mp3/3Soal1Jawaban(Ska).mp3
-Allah Takkan Ubah Nasib | https://teamkeringat.github.io/Mp3/AllahTakkanUbahNasib.mp3
-Keangkuhan Cinta 01 | https://teamkeringat.github.io/Mp3/KeangkuhanCinta01.mp3
-Keangkuhan Cinta 02 | https://teamkeringat.github.io/Mp3/KeangkuhanCinta02.mp3
-Kebersihan Hati Dan Lingkungan | https://teamkeringat.github.io/Mp3/KebersihanHatiDanLingkungan.mp3
-Kepasrahan Jiwa | https://teamkeringat.github.io/Mp3/KepasrahanJiwa.mp3
-Qodho Dan Qodar | https://teamkeringat.github.io/Mp3/Qodho&Qodar(Ska).mp3
-Harapan Hati | https://teamkeringat.github.io/Mp3/HarapanHati(Co).mp3
-Apa Yang Akan Dibawa | https://teamkeringat.github.io/Mp3/ApaYangAkanDibawa(Ska).mp3
-7 Bahasa Semesta | https://teamkeringat.github.io/Mp3/7BahasaSemesta(Ska).mp3
-Bulan Dan Matahari | https://teamkeringat.github.io/Mp3/BulanDanMatahari.mp3
-Rindu Memanggil Syahdu | https://teamkeringat.github.io/Mp3/RinduMemanggil(Syahdu).mp3
-Buka Pintu | https://teamkeringat.github.io/Mp3/BukaPintu1.mp3
-Bisikan Kenangan | https://teamkeringat.github.io/Mp3/Bisikan Kenangan(Syahdu).mp3
-Usia Remaja.mp3 | https://teamkeringat.github.io/Mp3/UsiaRemaja.mp3
-Wacana Langit 1 | https://teamkeringat.github.io/Mp3/WacanaLangit(Co).mp3
-Wacana Langit 2 | https://teamkeringat.github.io/Mp3/WacanaLangit(Ce).mp3
-Pilih Diri Sendiri | https://teamkeringat.github.io/Mp3/PilihDiriSendiri.mp3
-Peta Cahaya Jiwa | https://teamkeringat.github.io/Mp3/PetaCahayaJiwa(Syahdu).mp3
-Pelita DiJalan Sunyi | https://teamkeringat.github.io/Mp3/PelitaDiJalanSunyi.mp3
-Nasihat Diri | https://teamkeringat.github.io/Mp3/NasihatDiri(Rap).mp3
-Keheningan Malam | https://teamkeringat.github.io/Mp3/KeheninganMalam(Lee).mp3
-Kenangan Yang Terjaga | https://teamkeringat.github.io/Mp3/KenanganYangTerjaga.mp3
-Kepalsuan Cinta | https://teamkeringat.github.io/Mp3/KepalsuanCinta.mp3
-Kenangan Lama | https://teamkeringat.github.io/Mp3/KenanganLama.mp3
-KesejukanJiwa | https://teamkeringat.github.io/Mp3/KesejukanJiwa.mp3
-KeutuhanCinta | https://teamkeringat.github.io/Mp3/KeutuhanCinta.mp3
-Kegalauan | https://teamkeringat.github.io/Mp3/Kegalauan.mp3
-KompasKehidupan | https://teamkeringat.github.io/Mp3/KompasKehidupan.mp3
-Menyapa Kehidupan | https://teamkeringat.github.io/Mp3/MenyapaKehidupan(Rege).mp3
-Merindu Kaya Hati | https://teamkeringat.github.io/Mp3/MerinduKayaHati.mp3
-Meski Luka Tetap Berdendang | https://teamkeringat.github.io/Mp3/MeskiLukaTetapBerdendang(Ska).mp3
-5 Langkah Berserah Diri | https://teamkeringat.github.io/Mp3/5LangkahBerserah.mp3
-6 Pilar Keyakinan | https://teamkeringat.github.io/Mp3/6PilarKeyakinan.mp3
-7 Ayat Kehidupan | https://teamkeringat.github.io/Mp3/7AyatKehidupan(Ska).mp3
-Abadi Dan Fana | https://teamkeringat.github.io/Mp3/AbadiDanFana(Ska).mp3
-Acis | https://teamkeringat.github.io/Mp3/Acis(Ska).mp3
-ASweetDream | https://teamkeringat.github.io/Mp3/ASweetDream.mp3
-Arah Dan Waktu | https://teamkeringat.github.io/Mp3/ArahDanWaktu(Syahdu).mp3
+Satu Suara Enam Penjuru | https://kesangan.github.io/Mp3/1Suara6Penjuru.mp3
+Tiga Soal Satu Jawaban | https://kesangan.github.io/Mp3/3Soal1Jawaban(Ska).mp3
+Allah Takkan Ubah Nasib | https://kesangan.github.io/Mp3/AllahTakkanUbahNasib.mp3
+Keangkuhan Cinta 01 | https://kesangan.github.io/Mp3/KeangkuhanCinta01.mp3
+Keangkuhan Cinta 02 | https://kesangan.github.io/Mp3/KeangkuhanCinta02.mp3
+Kebersihan Hati Dan Lingkungan | https://kesangan.github.io/Mp3/KebersihanHatiDanLingkungan.mp3
+Kepasrahan Jiwa | https://kesangan.github.io/Mp3/KepasrahanJiwa.mp3
+Qodho Dan Qodar | https://kesangan.github.io/Mp3/Qodho&Qodar(Ska).mp3
+Harapan Hati | https://kesangan.github.io/Mp3/HarapanHati(Co).mp3
+Apa Yang Akan Dibawa | https://kesangan.github.io/Mp3/ApaYangAkanDibawa(Ska).mp3
+7 Bahasa Semesta | https://kesangan.github.io/Mp3/7BahasaSemesta(Ska).mp3
+Bulan Dan Matahari | https://kesangan.github.io/Mp3/BulanDanMatahari.mp3
+Rindu Memanggil Syahdu | https://kesangan.github.io/Mp3/RinduMemanggil(Syahdu).mp3
+Buka Pintu | https://kesangan.github.io/Mp3/BukaPintu1.mp3
+Bisikan Kenangan | https://kesangan.github.io/Mp3/Bisikan Kenangan(Syahdu).mp3
+Usia Remaja.mp3 | https://kesangan.github.io/Mp3/UsiaRemaja.mp3
+Wacana Langit 1 | https://kesangan.github.io/Mp3/WacanaLangit(Co).mp3
+Wacana Langit 2 | https://kesangan.github.io/Mp3/WacanaLangit(Ce).mp3
+Pilih Diri Sendiri | https://kesangan.github.io/Mp3/PilihDiriSendiri.mp3
+Peta Cahaya Jiwa | https://kesangan.github.io/Mp3/PetaCahayaJiwa(Syahdu).mp3
+Pelita DiJalan Sunyi | https://kesangan.github.io/Mp3/PelitaDiJalanSunyi.mp3
+Nasihat Diri | https://kesangan.github.io/Mp3/NasihatDiri(Rap).mp3
+Keheningan Malam | https://kesangan.github.io/Mp3/KeheninganMalam(Lee).mp3
+Kenangan Yang Terjaga | https://kesangan.github.io/Mp3/KenanganYangTerjaga.mp3
+Kepalsuan Cinta | https://kesangan.github.io/Mp3/KepalsuanCinta.mp3
+Kenangan Lama | https://kesangan.github.io/Mp3/KenanganLama.mp3
+KesejukanJiwa | https://kesangan.github.io/Mp3/KesejukanJiwa.mp3
+KeutuhanCinta | https://kesangan.github.io/Mp3/KeutuhanCinta.mp3
+Kegalauan | https://kesangan.github.io/Mp3/Kegalauan.mp3
+KompasKehidupan | https://kesangan.github.io/Mp3/KompasKehidupan.mp3
+Menyapa Kehidupan | https://kesangan.github.io/Mp3/MenyapaKehidupan(Rege).mp3
+Merindu Kaya Hati | https://kesangan.github.io/Mp3/MerinduKayaHati.mp3
+Meski Luka Tetap Berdendang | https://kesangan.github.io/Mp3/MeskiLukaTetapBerdendang(Ska).mp3
+5 Langkah Berserah Diri | https://kesangan.github.io/Mp3/5LangkahBerserah.mp3
+6 Pilar Keyakinan | https://kesangan.github.io/Mp3/6PilarKeyakinan.mp3
+7 Ayat Kehidupan | https://kesangan.github.io/Mp3/7AyatKehidupan(Ska).mp3
+Abadi Dan Fana | https://kesangan.github.io/Mp3/AbadiDanFana(Ska).mp3
+Acis | https://kesangan.github.io/Mp3/Acis(Ska).mp3
+ASweetDream | https://kesangan.github.io/Mp3/ASweetDream.mp3
+Arah Dan Waktu | https://kesangan.github.io/Mp3/ArahDanWaktu(Syahdu).mp3
+4 Jejak Menuju Ilahi.mp3 | https://kesangan.github.io/Mp3/4JejakMenujuIlahi(Ska).mp3
