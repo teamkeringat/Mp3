@@ -38,4 +38,7 @@ Abadi Dan Fana | https://teamkeringat.github.io/Mp3/AbadiDanFana(Ska).mp3
 Acis | https://teamkeringat.github.io/Mp3/Acis(Ska).mp3
 ASweetDream | https://teamkeringat.github.io/Mp3/ASweetDream.mp3
 Arah Dan Waktu | https://teamkeringat.github.io/Mp3/ArahDanWaktu(Syahdu).mp3
-4 Jejak Menuju Ilahi.mp3 | https://teamkeringat.github.io/Mp3/4JejakMenujuIlahi(Ska).mp3
+4 Jejak Menuju Ilahi| https://teamkeringat.github.io/Mp3/4JejakMenujuIlahi(Ska).mp3
+Hymne Majlis 1| https://teamkeringat.github.io/Mp3/HymneMajlis1.mp3
+Hymne Majlis 2| https://teamkeringat.github.io/Mp3/HymneMajlis2.mp3
+Hymne Majlis 3| https://teamkeringat.github.io/Mp3/HymneMajlis3.mp3
