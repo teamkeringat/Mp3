@@ -1,0 +1,90 @@
+# Daftar-Maqom.txt
+# Taruh di: https://teamkeringat.github.io/Mp3/Daftar-Maqom.txt
+#
+# FORMAT TIAP BARIS:   Judul | NamaFile.mp3
+#   - Judul HARUS disusun:  <Maqam> <Tingkatan> <Rumus atau Praktek>
+#       Rumus   = untuk lipatan "Rumus Qoidah Nada"
+#       Praktek = untuk lipatan "Praktek Nada dalam Surat"
+#   - Maqam     : Bayati, Shoba, Hijaz, Nahawand, Rast, Jiharkah, Sika
+#   - Tingkatan : Qarar, Nawa, Jawab, Jawabul Jawab
+#   - NamaFile.mp3 otomatis diawali https://teamkeringat.github.io/Mp3/
+#     (boleh juga ditulis link lengkap https://...)
+#   - Baris berawalan # diabaikan.
+#
+# VARIASI: tambah angka di belakang judul, contoh:
+#     Bayati Qarar Rumus 2 | Bayati-Qarar-Rumus-2.mp3
+#   Maka di lipatan "Rumus Qoidah Nada" Bayati > Qarar muncul dua pemutar.
+#
+# Bila satu baris belum ditulis di sini, menu otomatis memakai nama file
+#   Maqam-Tingkatan-Jenis.mp3   (contoh: Bayati-Jawabul-Jawab-Praktek.mp3)
+# jadi cukup unggah MP3 dengan nama itu pun sudah bisa diputar.
+
+# ===== BAYATI =====
+Bayati Qarar Rumus | Bayati-Qarar-Rumus.mp3
+Bayati Qarar Praktek | Bayati-Qarar-Praktek.mp3
+Bayati Nawa Rumus | Bayati-Nawa-Rumus.mp3
+Bayati Nawa Praktek | Bayati-Nawa-Praktek.mp3
+Bayati Jawab Rumus | Bayati-Jawab-Rumus.mp3
+Bayati Jawab Praktek | Bayati-Jawab-Praktek.mp3
+Bayati Jawabul Jawab Rumus | Bayati-Jawabul-Jawab-Rumus.mp3
+Bayati Jawabul Jawab Praktek | Bayati-Jawabul-Jawab-Praktek.mp3
+
+# ===== SHOBA =====
+Shoba Qarar Rumus | Shoba-Qarar-Rumus.mp3
+Shoba Qarar Praktek | Shoba-Qarar-Praktek.mp3
+Shoba Nawa Rumus | Shoba-Nawa-Rumus.mp3
+Shoba Nawa Praktek | Shoba-Nawa-Praktek.mp3
+Shoba Jawab Rumus | Shoba-Jawab-Rumus.mp3
+Shoba Jawab Praktek | Shoba-Jawab-Praktek.mp3
+Shoba Jawabul Jawab Rumus | Shoba-Jawabul-Jawab-Rumus.mp3
+Shoba Jawabul Jawab Praktek | Shoba-Jawabul-Jawab-Praktek.mp3
+
+# ===== HIJAZ =====
+Hijaz Qarar Rumus | Hijaz-Qarar-Rumus.mp3
+Hijaz Qarar Praktek | Hijaz-Qarar-Praktek.mp3
+Hijaz Nawa Rumus | Hijaz-Nawa-Rumus.mp3
+Hijaz Nawa Praktek | Hijaz-Nawa-Praktek.mp3
+Hijaz Jawab Rumus | Hijaz-Jawab-Rumus.mp3
+Hijaz Jawab Praktek | Hijaz-Jawab-Praktek.mp3
+Hijaz Jawabul Jawab Rumus | Hijaz-Jawabul-Jawab-Rumus.mp3
+Hijaz Jawabul Jawab Praktek | Hijaz-Jawabul-Jawab-Praktek.mp3
+
+# ===== NAHAWAND =====
+Nahawand Qarar Rumus | Nahawand-Qarar-Rumus.mp3
+Nahawand Qarar Praktek | Nahawand-Qarar-Praktek.mp3
+Nahawand Nawa Rumus | Nahawand-Nawa-Rumus.mp3
+Nahawand Nawa Praktek | Nahawand-Nawa-Praktek.mp3
+Nahawand Jawab Rumus | Nahawand-Jawab-Rumus.mp3
+Nahawand Jawab Praktek | Nahawand-Jawab-Praktek.mp3
+Nahawand Jawabul Jawab Rumus | Nahawand-Jawabul-Jawab-Rumus.mp3
+Nahawand Jawabul Jawab Praktek | Nahawand-Jawabul-Jawab-Praktek.mp3
+
+# ===== RAST =====
+Rast Qarar Rumus | Rast-Qarar-Rumus.mp3
+Rast Qarar Praktek | Rast-Qarar-Praktek.mp3
+Rast Nawa Rumus | Rast-Nawa-Rumus.mp3
+Rast Nawa Praktek | Rast-Nawa-Praktek.mp3
+Rast Jawab Rumus | Rast-Jawab-Rumus.mp3
+Rast Jawab Praktek | Rast-Jawab-Praktek.mp3
+Rast Jawabul Jawab Rumus | Rast-Jawabul-Jawab-Rumus.mp3
+Rast Jawabul Jawab Praktek | Rast-Jawabul-Jawab-Praktek.mp3
+
+# ===== JIHARKAH =====
+Jiharkah Qarar Rumus | Jiharkah-Qarar-Rumus.mp3
+Jiharkah Qarar Praktek | Jiharkah-Qarar-Praktek.mp3
+Jiharkah Nawa Rumus | Jiharkah-Nawa-Rumus.mp3
+Jiharkah Nawa Praktek | Jiharkah-Nawa-Praktek.mp3
+Jiharkah Jawab Rumus | Jiharkah-Jawab-Rumus.mp3
+Jiharkah Jawab Praktek | Jiharkah-Jawab-Praktek.mp3
+Jiharkah Jawabul Jawab Rumus | Jiharkah-Jawabul-Jawab-Rumus.mp3
+Jiharkah Jawabul Jawab Praktek | Jiharkah-Jawabul-Jawab-Praktek.mp3
+
+# ===== SIKA =====
+Sika Qarar Rumus | Sika-Qarar-Rumus.mp3
+Sika Qarar Praktek | Sika-Qarar-Praktek.mp3
+Sika Nawa Rumus | Sika-Nawa-Rumus.mp3
+Sika Nawa Praktek | Sika-Nawa-Praktek.mp3
+Sika Jawab Rumus | Sika-Jawab-Rumus.mp3
+Sika Jawab Praktek | Sika-Jawab-Praktek.mp3
+Sika Jawabul Jawab Rumus | Sika-Jawabul-Jawab-Rumus.mp3
+Sika Jawabul Jawab Praktek | Sika-Jawabul-Jawab-Praktek.mp3
