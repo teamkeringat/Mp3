@@ -2,89 +2,99 @@
 # Taruh di: https://teamkeringat.github.io/Mp3/Daftar-Maqom.txt
 #
 # FORMAT TIAP BARIS:   Judul | NamaFile.mp3
-#   - Judul HARUS disusun:  <Maqam> <Tingkatan> <Rumus atau Praktek>
+#   - Judul HARUS disusun:  <Rumus atau Praktek> <Maqom> <NamaTingkatan/NamaRumus>
 #       Rumus   = untuk lipatan "Rumus Qoidah Nada"
 #       Praktek = untuk lipatan "Praktek Nada dalam Surat"
-#   - Maqam     : Bayati, Shoba, Hijaz, Nahawand, Rast, Jiharkah, Sika
-#   - Tingkatan : Qarar, Nawa, Jawab, Jawabul Jawab
+#   - Maqom     : Bayati, Shoba, Hijaz, Nahawand, Rost, Jiharkah, Sika
+#   - Tingkatan : Qoror, Nawa, Jawab, Jawabul Jawab
+#   - Nama custom di belakang maqom (mis. Dasar, Asli, Asyiron, Ajami,
+#     Kard Kurd, Iroqi, Quflah Bustanjar) dipetakan otomatis oleh menu
+#     ke tingkatan yang sesuai (lihat peta alias di dalam HTML).
 #   - NamaFile.mp3 otomatis diawali https://teamkeringat.github.io/Mp3/
 #     (boleh juga ditulis link lengkap https://...)
 #   - Baris berawalan # diabaikan.
 #
 # VARIASI: tambah angka di belakang judul, contoh:
-#     Bayati Qarar Rumus 2 | Bayati-Qarar-Rumus-2.mp3
-#   Maka di lipatan "Rumus Qoidah Nada" Bayati > Qarar muncul dua pemutar.
+#     Rumus Bayati Qoror 2 | Bayati-Qoror-Rumus-2.mp3
+#   Maka di lipatan "Rumus Qoidah Nada" Bayati > Qoror muncul dua pemutar.
 #
 # Bila satu baris belum ditulis di sini, menu otomatis memakai nama file
-#   Maqam-Tingkatan-Jenis.mp3   (contoh: Bayati-Jawabul-Jawab-Praktek.mp3)
+#   <Rumus|Praktek>-<Maqom>-<Tingkatan>.mp3
 # jadi cukup unggah MP3 dengan nama itu pun sudah bisa diputar.
 
 # ===== BAYATI =====
-Bayati Qarar Rumus | Bayati-Qarar-Rumus.mp3
-Bayati Qarar Praktek | Bayati-Qarar-Praktek.mp3
-Bayati Nawa Rumus | Bayati-Nawa-Rumus.mp3
-Bayati Nawa Praktek | Bayati-Nawa-Praktek.mp3
-Bayati Jawab Rumus | Bayati-Jawab-Rumus.mp3
-Bayati Jawab Praktek | Bayati-Jawab-Praktek.mp3
-Bayati Jawabul Jawab Rumus | Bayati-Jawabul-Jawab-Rumus.mp3
-Bayati Jawabul Jawab Praktek | Bayati-Jawabul-Jawab-Praktek.mp3
+Rumus Bayati Qoror | RBQ.mp3
+Praktek Bayati Qoror | PBQ.mp3
+Rumus Bayati Nawa | RBN.mp3
+Praktek Bayati Nawa | PBN.mp3
+Rumus Bayati Husaini | RBH.mp3
+Praktek Bayati Husaini | PBH.mp3
+Rumus Bayati Jawab | RBJ.mp3
+Praktek Bayati Jawab | PBJ.mp3
+Rumus Bayati Jawabul Jawab | RBJJ.mp3
+Praktek Bayati Jawabul Jawab | PBJJ.mp3
+Rumus Bayati Suri | RBS.mp3
+Praktek Bayati Suri | PBS.mp3
 
 # ===== SHOBA =====
-Shoba Qarar Rumus | Shoba-Qarar-Rumus.mp3
-Shoba Qarar Praktek | Shoba-Qarar-Praktek.mp3
-Shoba Nawa Rumus | Shoba-Nawa-Rumus.mp3
-Shoba Nawa Praktek | Shoba-Nawa-Praktek.mp3
-Shoba Jawab Rumus | Shoba-Jawab-Rumus.mp3
-Shoba Jawab Praktek | Shoba-Jawab-Praktek.mp3
-Shoba Jawabul Jawab Rumus | Shoba-Jawabul-Jawab-Rumus.mp3
-Shoba Jawabul Jawab Praktek | Shoba-Jawabul-Jawab-Praktek.mp3
+Rumus Shoba Dasar | RShD.mp3
+Praktek Shoba Dasar | PShD.mp3
+Rumus Shoba Asyiron | RShAsy.mp3
+Praktek Shoba Asyiron | PShAsy.mp3
+Rumus Shoba Ajami | RShAj.mp3
+Praktek Shoba Ajami | PShAj.mp3
+Rumus Shoba Quflah Bustanjar | RShQB.mp3
+Praktek Shoba Quflah Bustanjar | PShQB.mp3
+Rumus Shoba Qofiyah Variasi | RShQV.mp3
+Praktek Shoba Qofiyah Variasi | PShQB.mp3
 
 # ===== HIJAZ =====
-Hijaz Qarar Rumus | Hijaz-Qarar-Rumus.mp3
-Hijaz Qarar Praktek | Hijaz-Qarar-Praktek.mp3
-Hijaz Nawa Rumus | Hijaz-Nawa-Rumus.mp3
-Hijaz Nawa Praktek | Hijaz-Nawa-Praktek.mp3
-Hijaz Jawab Rumus | Hijaz-Jawab-Rumus.mp3
-Hijaz Jawab Praktek | Hijaz-Jawab-Praktek.mp3
-Hijaz Jawabul Jawab Rumus | Hijaz-Jawabul-Jawab-Rumus.mp3
-Hijaz Jawabul Jawab Praktek | Hijaz-Jawabul-Jawab-Praktek.mp3
+Rumus Hijaz Dasar | RHD.mp3
+Praktek Hijaz Dasar | PHD.mp3
+Rumus Hijaz Nawa Kard | RHNK.mp3
+Praktek Hijaz Nawa Kard | PHNK.mp3
+Rumus Hijaz Kard Kurd | RHKK.mp3
+Praktek Hijaz Kard Kurd | PHKK.mp3
+Rumus Hijaz Variasi | RHV.mp3
+Praktek Hijaz Variasi | PHV.mp3
 
 # ===== NAHAWAND =====
-Nahawand Qarar Rumus | Nahawand-Qarar-Rumus.mp3
-Nahawand Qarar Praktek | Nahawand-Qarar-Praktek.mp3
-Nahawand Nawa Rumus | Nahawand-Nawa-Rumus.mp3
-Nahawand Nawa Praktek | Nahawand-Nawa-Praktek.mp3
-Nahawand Jawab Rumus | Nahawand-Jawab-Rumus.mp3
-Nahawand Jawab Praktek | Nahawand-Jawab-Praktek.mp3
-Nahawand Jawabul Jawab Rumus | Nahawand-Jawabul-Jawab-Rumus.mp3
-Nahawand Jawabul Jawab Praktek | Nahawand-Jawabul-Jawab-Praktek.mp3
+Rumus Nahawand Asli | RNA.mp3
+Praktek Nahawand Asli | PNA.mp3
+Rumus Nahawand Mutawasith | RNM.mp3
+Praktek Nahawand Mutawasith | PNM.mp3
+Rumus Nahawand Jawab | RNJ.mp3
+Praktek Nahawand Jawab | PNJ.mp3
+Rumus Nahawand Jawabul Jawab | Praktek-Nahawand-Jawabul-Jawab-Rumus.mp3
+Rumus Nahawand Iroqi (Nakhrij & Kuflah) | RNINK.mp3
+Praktek Nahawand Iroqi (Nakhrij & Kuflah) | PNINK.mp3
 
-# ===== RAST =====
-Rast Qarar Rumus | Rast-Qarar-Rumus.mp3
-Rast Qarar Praktek | Rast-Qarar-Praktek.mp3
-Rast Nawa Rumus | Rast-Nawa-Rumus.mp3
-Rast Nawa Praktek | Rast-Nawa-Praktek.mp3
-Rast Jawab Rumus | Rast-Jawab-Rumus.mp3
-Rast Jawab Praktek | Rast-Jawab-Praktek.mp3
-Rast Jawabul Jawab Rumus | Rast-Jawabul-Jawab-Rumus.mp3
-Rast Jawabul Jawab Praktek | Rast-Jawabul-Jawab-Praktek.mp3
+# ===== ROST / ROSY =====
+Rumus Rost Dasar | RRD.mp3
+Praktek Rost Dasar | PRD.mp3
+Rumus Rost Nawa | RRN.mp3
+Praktek Rost Nawa | PRN.mp3
+Rumus Rost Jawab | RRJ.mp3
+Praktek Rost Jawab | PRJ.mp3
+Rumus Rost Quflah Janjiron | RRQJ.mp3
+Praktek Rost Quflah Janjiron | PRQJ.mp3
 
 # ===== JIHARKAH =====
-Jiharkah Qarar Rumus | Jiharkah-Qarar-Rumus.mp3
-Jiharkah Qarar Praktek | Jiharkah-Qarar-Praktek.mp3
-Jiharkah Nawa Rumus | Jiharkah-Nawa-Rumus.mp3
-Jiharkah Nawa Praktek | Jiharkah-Nawa-Praktek.mp3
-Jiharkah Jawab Rumus | Jiharkah-Jawab-Rumus.mp3
-Jiharkah Jawab Praktek | Jiharkah-Jawab-Praktek.mp3
-Jiharkah Jawabul Jawab Rumus | Jiharkah-Jawabul-Jawab-Rumus.mp3
-Jiharkah Jawabul Jawab Praktek | Jiharkah-Jawabul-Jawab-Praktek.mp3
+Rumus Jiharkah Dasar | RJD.mp3
+Praktek Jiharkah Dasar | PJD.mp3
+Rumus Jiharkah Nawa | RJN.mp3
+Praktek Jiharkah Nawa | PJN.mp3
+Rumus Jiharkah Jawab | RJJ.mp3
+Praktek Jiharkah Jawab | PJJ.mp3
+Rumus Jiharkah Jawabul Jawab | RJJJ.mp3
+Praktek Jiharkah Jawabul Jawab | PJJJ.mp3
 
 # ===== SIKA =====
-Sika Qarar Rumus | Sika-Qarar-Rumus.mp3
-Sika Qarar Praktek | Sika-Qarar-Praktek.mp3
-Sika Nawa Rumus | Sika-Nawa-Rumus.mp3
-Sika Nawa Praktek | Sika-Nawa-Praktek.mp3
-Sika Jawab Rumus | Sika-Jawab-Rumus.mp3
-Sika Jawab Praktek | Sika-Jawab-Praktek.mp3
-Sika Jawabul Jawab Rumus | Sika-Jawabul-Jawab-Rumus.mp3
-Sika Jawabul Jawab Praktek | Sika-Jawabul-Jawab-Praktek.mp3
+Rumus Sika Dasar | RSD.mp3
+Praktek Sika Dasar | PSD.mp3
+Rumus Sika Iroqi | RSI.mp3
+Praktek Sika Iroqi | PSI.mp3
+Rumus Sika Turki Jawab | RSTJ.mp3
+Praktek Sika Turki Jawab | PSTJ.mp3
+Rumus Sika Romala | RSR.mp3
+Praktek Sika Romala | PSR.mp3
