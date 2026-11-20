@@ -1,7 +1,6 @@
 /* =====================================================================
    Daftar-Ayat.js
-   Berisi Teks Arab + Terjemahan (Arti) untuk semua Maqom.
-   Simpan di: https://teamkeringat.github.io/Mp3/Daftar-Ayat.js
+   Berisi Teks Arab + Terjemahan untuk semua Maqom & Nada.
    ===================================================================== */
 window.DaftarAyat = {
 
@@ -14,14 +13,14 @@ window.DaftarAyat = {
       ayatIdn: "Alif Lam Mim. Kitab (Al-Qur'an) ini tidak ada keraguan padanya; petunjuk bagi mereka yang bertakwa. (Yaitu) mereka yang beriman kepada yang gaib, melaksanakan shalat, dan menginfakkan sebagian rezeki yang Kami berikan kepada mereka. (QS. Al-Baqarah: 1-3)"
     },
     "Nawa": {
-      rumus: '<tr><td dir="rtl">بَدَأْتُ بِسْمِ اللهِ فِي النَّظْمِ أَوَّلَا</td></tr><tr><td dir="rtl">تَبَارَكَ رَحْمَانًا رَحِيْمًا وَمَوْئِلَا</td></tr>',
-      rumusIdn: "Aku memulai dengan nama Allah dalam menyusun bait ini. Maha Suci (Allah) yang Maha Pengasih lagi Maha Penyayang dan menjadi tempat kembali.",
+      rumus: '<tr><td dir="rtl">وَتَنَبَّهْتُ صَلَّى اللهُ رَبِّي عَلَى الرِّضَا</td></tr><tr><td dir="rtl">مُحَمَّدٍ الْمُهْتَدَى إِلَى النَّاسِ مُرْسَلًا</td></tr>',
+      rumusIdn: "Dan aku tersadar, semoga Allah Tuhanku melimpahkan rahmat-Nya. Kepada Nabi Muhammad yang mendapat petunjuk dan diutus kepada manusia.",
       ayat: '<tr><td dir="rtl">وَالَّذِيْنَ يُؤْمِنُوْنَ بِمَآ اُنْزِلَ اِلَيْكَ وَمَآ اُنْزِلَ مِنْ قَبْلِكَۚ وَبِالْاٰخِرَةِ هُمْ يُوْقِنُوْنَۗ</td></tr><tr><td dir="rtl">اُولٰۤىِٕكَ عَلٰى هُدًى مِّنْ رَّبِّهِمْۚ وَاُولٰۤىِٕكَ هُمُ الْمُفْلِحُوْنَ</td></tr>',
       ayatIdn: "Dan mereka yang beriman kepada (Al-Qur'an) yang diturunkan kepadamu (Muhammad) dan (kitab-kitab) yang telah diturunkan sebelum engkau, dan mereka yakin akan adanya akhirat. Merekalah yang mendapat petunjuk dari Tuhannya, dan mereka itulah orang-orang yang beruntung. (QS. Al-Baqarah: 4-5)"
     },
     "Husaini": {
-      rumus: '<tr><td dir="rtl">بَدَأْتُ بِسْمِ اللهِ فِي النَّظْمِ أَوَّلَا</td></tr><tr><td dir="rtl">تَبَارَكَ رَحْمَانًا رَحِيْمًا وَمَوْئِلَا</td></tr>',
-      rumusIdn: "Aku memulai dengan nama Allah dalam menyusun bait ini. Maha Suci (Allah) yang Maha Pengasih lagi Maha Penyayang dan menjadi tempat kembali.",
+      rumus: '<tr><td dir="rtl">وَتَنَبَّهْتُ صَلَّى اللهُ رَبِّي عَلَى الرِّضَا</td></tr><tr><td dir="rtl">مُحَمَّدٍ الْمُهْتَدَى إِلَى النَّاسِ مُرْسَلًا</td></tr>',
+      rumusIdn: "Dan aku tersadar, semoga Allah Tuhanku melimpahkan rahmat-Nya. Kepada Nabi Muhammad yang mendapat petunjuk dan diutus kepada manusia.",
       ayat: '<tr><td dir="rtl">اِنَّ الَّذِيْنَ كَفَرُوْا سَوَآءٌ عَلَيْهِمْ ءَاَنْذَرْتَهُمْ اَمْ لَمْ تُنْذِرْهُمْ لَا يُؤْمِنُوْنَ ۚ</td></tr>',
       ayatIdn: "Sesungguhnya orang-orang kafir, sama saja bagi mereka, engkau (Muhammad) beri peringatan atau tidak engkau beri peringatan, mereka tidak akan beriman. (QS. Al-Baqarah: 6)"
     },
@@ -37,9 +36,9 @@ window.DaftarAyat = {
       ayat: '<tr><td dir="rtl">وَمِنَ النَّاسِ مَنْ يَّقُوْلُ اٰمَنَّا بِاللّٰهِ وَبِالْيَوْمِ الْاٰخِرِ وَمَا هُمْ بِمُؤْمِنِيْنَ ۘ</td></tr>',
       ayatIdn: "Dan di antara manusia ada yang berkata, \"Kami beriman kepada Allah dan hari akhir,\" padahal sesungguhnya mereka itu bukanlah orang-orang yang beriman. (QS. Al-Baqarah: 8)"
     },
-    "Suri": {
-      rumus: '<tr><td dir="rtl">وَلَاثِتْ أَنَّ الْحَمْدَ لِلَّهِ دَائِمًا</td></tr><tr><td dir="rtl">وَمَا لَيْسَ مَبْدُوْءًا بِهِ أَجْدَمُ الْعُلَا</td></tr>',
-      rumusIdn: "Dan tidaklah tetap (nikmat) bahwa segala puji bagi Allah selamanya. Dan apa yang tidak dimulai dengan-Nya, maka akan terputus (keberkahannya).",
+    "Shu'di": {
+      rumus: '<tr><td dir="rtl">وَبَعْدُ فَجَنْبُلُ اللهِ فِيْنَا كِتَابُهُ</td></tr><tr><td dir="rtl">فَجَاهِدْ بِهِ حِبْلَ الْعِدَا مُتَحَبِّلًا</td></tr>',
+      rumusIdn: "Dan setelah itu, tali Allah (Al-Qur'an) ada di antara kita sebagai kitab-Nya. Maka berjihadlah dengan kitab itu untuk melawan musuh-musuh dengan penuh kecintaan.",
       ayat: '<tr><td dir="rtl">يُخٰدِعُوْنَ اللّٰهَ وَالَّذِيْنَ اٰمَنُوْاۚ وَمَا يَخْدَعُوْنَ اِلَّآ اَنْفُسَهُمْ وَمَا يَشْعُرُوْنَۗ</td></tr>',
       ayatIdn: "Mereka hendak menipu Allah dan orang-orang yang beriman, padahal mereka hanya menipu dirinya sendiri tanpa mereka sadari. (QS. Al-Baqarah: 9)"
     }
