@@ -39,19 +39,12 @@ window.DaftarAyat = {
       ayat: '<tr><td dir="rtl">وَمِنَ النَّاسِ مَنْ يَّقُوْلُ اٰمَنَّا بِاللّٰهِ وَبِالْيَوْمِ الْاٰخِرِ وَمَا هُمْ بِمُؤْمِنِيْنَ ۘ</td></tr>',
       ayatIdn: "Dan di antara manusia ada yang berkata, \"Kami beriman kepada Allah dan hari akhir,\" padahal sesungguhnya mereka itu bukanlah orang-orang yang beriman. (QS. Al-Baqarah: 8)"
     },
-    "Shu'udi": {
+    "Suri": {
       rumus: '<tr><td dir="rtl">وَبَعْدُ فَحَبْلُ اللهِ فِينَا كِتَابُهُ</td></tr><tr><td dir="rtl">فَجَاهِدْ بِهِ حِبْلَ الْعِدَا مُتَحَبِّلًا</td></tr>',
-      rumusIdn: "Shu'udi : Naik",
+      rumusIdn: "S : Naik",
       ayat: '<tr><td dir="rtl">يُخٰدِعُوْنَ اللّٰهَ وَالَّذِيْنَ اٰمَنُوْاۚ وَمَا يَخْدَعُوْنَ اِلَّآ اَنْفُسَهُمْ وَمَا يَشْعُرُوْنَۗ</td></tr>',
       ayatIdn: "Mereka hendak menipu Allah dan orang-orang yang beriman, padahal mereka hanya menipu dirinya sendiri tanpa mereka sadari. (QS. Al-Baqarah: 9)"
     },
-    "Suri": {
-      rumus: '<tr><td dir="rtl">بَدَأْتُ بِبِسْمِ اللّٰهِ فِي النَّظْمِ أَوَّلًا</td></tr><tr><td dir="rtl">تَبَارَكَ رَحْمَانًا رَحِيْمًا وَمَوْئِلًا</td></tr>',
-      rumusIdn: "Suri : Penutup (Jawabul Jawab)",
-      ayat: '<tr><td dir="rtl">فِيْ قُلُوْبِهِمْ مَّرَضٌۙ فَزَادَهُمُ اللّٰهُ مَرَضًاۚ وَلَهُمْ عَذَابٌ اَلِيْمٌ ۢ ۙ بِمَا كَانُوْا يَكْذِبُوْنَ</td></tr>',
-      ayatIdn: "Di dalam hati mereka ada penyakit, lalu Allah menambah penyakit itu; dan mereka mendapat azab yang pedih karena mereka berdusta. (QS. Al-Baqarah: 10)"
-    }
-  },
 
   /* =============================== SHOBA =============================== */
   "Shoba": {
@@ -73,18 +66,12 @@ window.DaftarAyat = {
       ayat: '<tr><td dir="rtl">اَللّٰهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِيْ طُغْيَانِهِمْ يَعْمَهُوْنَ</td></tr>',
       ayatIdn: "Allah akan memperolok-olokkan mereka dan membiarkan mereka terombang-ambing dalam kesesatan. (QS. Al-Baqarah: 15)"
     },
-    "Quflah Bustanjar": {
+    "Bustanjar": {
       rumus: '<tr><td dir="rtl">وَمَنْ أَجْلِهِ فِيْ ذِرْوَةِ الْعِزِّ يُحْتَلَا</td></tr><tr><td dir="rtl">هُنَالِكَ يَبْنِيْهِ مَقِيْلًا وَرَوْضَةً</td></tr>',
-      rumusIdn: "Quflah Bustanjar",
+      rumusIdn: "Bustanjar",
       ayat: '<tr><td dir="rtl">اُولٰۤىِٕكَ الَّذِيْنَ اشْتَرَوُا الضَّلٰلَةَ بِالْهُدٰىۖ فَمَا رَبِحَتْ تِّجَارَتُهُمْ وَمَا كَانُوْا مُهْتَدِيْنَ</td></tr>',
       ayatIdn: "Mereka itulah yang membeli kesesatan dengan petunjuk. Maka perdagangan mereka itu tidak beruntung dan mereka tidak mendapat petunjuk. (QS. Al-Baqarah: 16)"
     },
-    "Qofiyah Variasi": {
-      rumus: '<tr><td dir="rtl">وَمَنْ أَجْلِهِ فِيْ ذِرْوَةِ الْعِزِّ يُحْتَلَا</td></tr><tr><td dir="rtl">هُنَالِكَ يَبْنِيْهِ مَقِيْلًا وَرَوْضَةً</td></tr>',
-      rumusIdn: "Qofiyah (Variasi)",
-      ayat: '<tr><td dir="rtl">مَثَلُهُمْ كَمَثَلِ الَّذِى اسْتَوْقَدَ نَارًاۚ فَلَمَّآ اَضَاۤءَتْ مَا حَوْلَهٗ ذَهَبَ اللّٰهُ بِنُوْرِهِمْ</td></tr>',
-      ayatIdn: "Perumpamaan mereka seperti orang-orang yang menyalakan api. Setelah api itu menerangi sekelilingnya, Allah hilangkan cahaya (yang menyinari) mereka. (QS. Al-Baqarah: 17)"
-    }
   },
 
   /* =============================== HIJAZ =============================== */
