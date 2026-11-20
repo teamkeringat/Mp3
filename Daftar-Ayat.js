@@ -45,7 +45,7 @@ window.DaftarAyat = {
       ayat: '<tr><td dir="rtl">يُخٰدِعُوْنَ اللّٰهَ وَالَّذِيْنَ اٰمَنُوْاۚ وَمَا يَخْدَعُوْنَ اِلَّآ اَنْفُسَهُمْ وَمَا يَشْعُرُوْنَۗ</td></tr>',
       ayatIdn: "Mereka hendak menipu Allah dan orang-orang yang beriman, padahal mereka hanya menipu dirinya sendiri tanpa mereka sadari. (QS. Al-Baqarah: 9)"
     },
-
+       },
   /* =============================== SHOBA =============================== */
   "Shoba": {
     "Dasar": {
