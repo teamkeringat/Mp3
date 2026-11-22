@@ -1,9 +1,5 @@
 /* =====================================================================
    Daftar-Ayat.js
-   Teks Arab + Terjemahan untuk semua Maqom & Nada.
-   SINKRON dengan Daftar-Maqom.txt & MaqomTilawah.html
-   Maqom: Bayati, Shoba, Hijaz, Nahawand, Rost, Jiharkah, Sika
-   CATATAN: Semua "rumus" = 2 baris (2 <tr>).
    ===================================================================== */
 window.DaftarAyat = {
 
@@ -50,10 +46,7 @@ window.DaftarAyat = {
   /* =============================== SHOBA =============================== */
   "Shoba": {
     "Dasar": {
-      rumus: '<tr><td dir="rtl">
-      وَإِنَّ كِتَابَ اللهِ أَوْثَقُ شَافِعٍ
-      </td></tr><tr><td dir="rtl">وَأَغْنَى غَنَاءً وَاهِبًا مُتَفَضِّلًا
-      </td></tr>',
+      rumus: '<tr><td dir="rtl">وَإِنَّ كِتَابَ اللهِ أَوْثَقُ شَافِعٍ</td></tr><tr><td dir="rtl">وَأَغْنَى غَنَاءً وَاهِبًا مُتَفَضِّلًا</td></tr>',
       rumusIdn: "Dasar",
       ayat: '<tr><td dir="rtl">وَاِذَا لَقُوا الَّذِيْنَ اٰمَنُوْا قَالُوْٓا اٰمَنَّاۚ</td></tr>',
       ayatIdn: "Dan apabila mereka (orang-orang munafik) bertemu dengan orang-orang yang beriman, mereka berkata, \"Kami telah beriman.\" (QS. Al-Baqarah: 14)"
@@ -75,7 +68,7 @@ window.DaftarAyat = {
       rumusIdn: "Bustanjar",
       ayat: '<tr><td dir="rtl">اُولٰۤىِٕكَ الَّذِيْنَ اشْتَرَوُا الضَّلٰلَةَ بِالْهُدٰىۖ فَمَا رَبِحَتْ تِّجَارَتُهُمْ وَمَا كَانُوْا مُهْتَدِيْنَ</td></tr>',
       ayatIdn: "Mereka itulah yang membeli kesesatan dengan petunjuk. Maka perdagangan mereka itu tidak beruntung dan mereka tidak mendapat petunjuk. (QS. Al-Baqarah: 16)"
-    },
+    }
   },
 
   /* =============================== HIJAZ =============================== */
