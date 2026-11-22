@@ -8,11 +8,11 @@
 
 # ===== BAYATI =====
 Rumus Bayati Qoror           | RBayati.mp3  | 00:00:00 - 01:00:00
-Rumus Bayati Nawa            | RBayati.mp3  | 04:08:00 - 08:15:00
-Rumus Bayati Husaini         | RBayati.mp3  | 08:16:00 - 12:20:00
-Rumus Bayati Jawab           | RBayati.mp3  | 12:21:00 - 16:30:00
-Rumus Bayati Jawabul Jawab   | RBayati.mp3  | 16:31:00 - 20:40:00
-Rumus Bayati Suri            | RBayati.mp3  | 20:41:00 - 24:50:00
+Rumus Bayati Nawa            | RBayati.mp3  | 02:20:03 - 02:19:01
+Rumus Bayati Husaini         | RBayati.mp3  | 02:21:03 - 03:33:07
+Rumus Bayati Jawab           | RBayati.mp3  | 03:39:00 - 04:49:00
+Rumus Bayati Jawabul Jawab   | RBayati.mp3  | 04:54:07 - 06:22:00
+Rumus Bayati Suri            | RBayati.mp3  | 06:25:00 - 07:36:00
 
 Praktek Bayati Qoror         | PBayati.mp3  | 00:02:00 - 04:07:50
 Praktek Bayati Nawa          | PBayati.mp3  | 04:08:00 - 08:15:00
