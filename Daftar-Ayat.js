@@ -177,4 +177,51 @@ window.DaftarAyat = {
       ayatIdn: "Sesungguhnya Allah tidak malu membuat perumpamaan (seekor) nyamuk atau yang lebih kecil dari itu. (QS. Al-Baqarah: 26)"
     },
     "Nawa": {
-      rumus: '<tr><td dir="rtl">وَاخْتَصَّهُ فِي الْمُرْسَلِي
+      rumus: '<tr><td dir="rtl">وَاخْتَصَّهُ فِي الْمُرْسَلِيْنَ كَرِيْمًا</td></tr><tr><td dir="rtl">ذَا رَأْفَةٍ بِالْمُؤْمِنِيْنَ رَحِيْمًا</td></tr>',
+      rumusIdn: "Nawa",
+      ayat: '<tr><td dir="rtl">فَاَمَّا الَّذِيْنَ اٰمَنُوْا فَيَعْلَمُوْنَ اَنَّهُ الْحَقُّ مِنْ رَّبِّهِمْۚ</td></tr>',
+      ayatIdn: "Maka adapun orang-orang yang beriman, mereka meyakini bahwa (perumpamaan) itu benar dari Tuhannya. (QS. Al-Baqarah: 26)"
+    },
+    "Jawab": {
+      rumus: '<tr><td dir="rtl">مَدْحُ النَّبِيِّ بَهِيِّ الْوَجْهِ يُشْجِيْنِي</td></tr><tr><td dir="rtl">وَاِنْ طَعِمْتُ مَدَ الْأَيَّامِ يُزْرِيْنِي</td></tr>',
+      rumusIdn: "Jawab",
+      ayat: '<tr><td dir="rtl">وَاَمَّا الَّذِيْنَ كَفَرُوْا فَيَقُوْلُوْنَ مَاذَآ اَرَادَ اللّٰهُ بِهٰذَا مَثَلًاۘ</td></tr>',
+      ayatIdn: "Dan adapun orang-orang kafir, mereka berkata, \"Apa maksud Allah dengan perumpamaan ini?\" (QS. Al-Baqarah: 26)"
+    },
+    "Lanjutan": {
+      rumus: '<tr><td dir="rtl">وَيَبْعُدُ هَمَّ عَنْ قَلْبِيْ وَبَعْضُهُ</td></tr><tr><td dir="rtl">وَبِعَثْ الرُّوْحِ وَالْجَبَرَاتِ تَأْتِيْنِي</td></tr>',
+      rumusIdn: "Lanjutan (Jawabul Jawab)",
+      ayat: '<tr><td dir="rtl">يُضِلُّ بِهٖ كَثِيْرًا وَّيَهْدِيْ بِهٖ كَثِيْرًاۗ وَمَا يُضِلُّ بِهٖٓ اِلَّا الْفٰسِقِيْنَ</td></tr>',
+      ayatIdn: "Dengan (perumpamaan) itu banyak orang yang dibiarkan-Nya sesat, dan dengan itu (pula) banyak orang yang diberi-Nya petunjuk. Tetapi tidak ada yang Dia sesatkan dengan itu selain orang-orang fasik. (QS. Al-Baqarah: 26)"
+    }
+  },
+
+  /* =============================== SIKA =============================== */
+  "Sika": {
+    "Dasar": {
+      rumus: '<tr><td dir="rtl">مَوْلَايَ كَتَبْتَ رَحْمَةَ النَّاسِ</td></tr><tr><td dir="rtl">فَضْلًا وَكَرَمَ</td></tr>',
+      rumusIdn: "Dasar (Awal Maqom)",
+      ayat: '<tr><td dir="rtl">الَّذِيْنَ يَنْقُضُوْنَ عَهْدَ اللّٰهِ مِنْ بَعْدِ مِيْثَاقِهٖ</td></tr>',
+      ayatIdn: "(Yaitu) orang-orang yang melanggar perjanjian Allah setelah (perjanjian) itu diteguhkan. (QS. Al-Baqarah: 27)"
+    },
+    "Iroqi": {
+      rumus: '<tr><td dir="rtl">فَالْمَرْجِعُ وَالْمَآلُ وَالْكُلُّ</td></tr><tr><td dir="rtl">إِلَيْكَ غُرْبٌ وَعَجَمٌ</td></tr>',
+      rumusIdn: "Iroqi",
+      ayat: '<tr><td dir="rtl">وَيَقْطَعُوْنَ مَآ اَمَرَ اللّٰهُ بِهٖٓ اَنْ يُّوْصَلَ وَيُفْسِدُوْنَ فِى الْاَرْضِۗ</td></tr>',
+      ayatIdn: "Dan memutuskan apa yang diperintahkan Allah untuk disambungkan, serta berbuat kerusakan di bumi. (QS. Al-Baqarah: 27)"
+    },
+    "Turki Jawab": {
+      rumus: '<tr><td dir="rtl">فَارْحَمْ ذُلِّيْ وَوَقِّتِي</td></tr><tr><td dir="rtl">بَيْنَ يَدَيْكَ إِنْ زَلَّ قَدَمَ</td></tr>',
+      rumusIdn: "Turki / Jawab",
+      ayat: '<tr><td dir="rtl">اُولٰۤىِٕكَ هُمُ الْخٰسِرُوْنَ</td></tr>',
+      ayatIdn: "Mereka itulah orang-orang yang rugi. (QS. Al-Baqarah: 27)"
+    },
+    "Romala": {
+      rumus: '<tr><td dir="rtl">فَالْحَمْدُ مِنِّيْ وَاَفْتَلِي</td></tr><tr><td dir="rtl">بَيْنَ يَدَيْكَ إِنْ زَلَّ قَدَمَ</td></tr>',
+      rumusIdn: "Romala (Jawabul Jawab)",
+      ayat: '<tr><td dir="rtl">كَيْفَ تَكْفُرُوْنَ بِاللّٰهِ وَكُنْتُمْ اَمْوَاتًا فَاَحْيَاكُمْۚ</td></tr>',
+      ayatIdn: "Bagaimana kamu ingkar kepada Allah, padahal kamu tadinya mati, lalu Dia menghidupkan kamu. (QS. Al-Baqarah: 28)"
+    }
+  }
+
+};
