@@ -6,85 +6,85 @@
 # Format Waktu: MENIT:DETIK:MILIDETIK (Contoh: 00:02:50 = Menit 0, Detik 2, Milidetik 50)
 # NamaFile otomatis diawali https://teamkeringat.github.io/Mp3/
 
-# ===== BAYATI =====
-Rumus Bayati Qoror           | RBayati.mp3  | 00:00:00 - 01:00:00
-Rumus Bayati Nawa            | RBayati.mp3  | 01:06:00 - 02:19:01
-Rumus Bayati Husaini         | RBayati.mp3  | 02:21:03 - 03:33:07
-Rumus Bayati Jawab           | RBayati.mp3  | 03:39:00 - 04:49:00
-Rumus Bayati Jawabul Jawab   | RBayati.mp3  | 04:54:07 - 06:22:00
-Rumus Bayati Suri            | RBayati.mp3  | 06:25:00 - 07:36:00
+# ===== 1. BAYATI =====
+Rumus Bayati Qoror           | 1RBayati.mp3  | 00:00:00 - 01:00:00
+Rumus Bayati Nawa            | 1RBayati.mp3  | 01:06:00 - 02:19:01
+Rumus Bayati Husaini         | 1RBayati.mp3  | 02:21:03 - 03:33:07
+Rumus Bayati Jawab           | 1RBayati.mp3  | 03:39:00 - 04:49:00
+Rumus Bayati Jawabul Jawab   | 1RBayati.mp3  | 04:54:07 - 06:22:00
+Rumus Bayati Suri            | 1RBayati.mp3  | 06:25:00 - 07:36:00
 
-Praktek Bayati Qoror         | PBayati.mp3  | 00:02:00 - 04:07:50
-Praktek Bayati Nawa          | PBayati.mp3  | 04:08:00 - 08:15:00
-Praktek Bayati Husaini       | PBayati.mp3  | 08:16:00 - 12:20:00
-Praktek Bayati Jawab         | PBayati.mp3  | 12:21:00 - 16:30:00
-Praktek Bayati Jawabul Jawab | PBayati.mp3  | 16:31:00 - 20:40:00
-Praktek Bayati Suri          | PBayati.mp3  | 20:41:00 - 24:50:00
+Praktek Bayati Qoror         | 1PBayati.mp3  | 00:00:00 - 00:38:00
+Praktek Bayati Nawa          | 1PBayati.mp3  | 00:40:00 - 01:04:00
+Praktek Bayati Husaini       | 1PBayati.mp3  | 01:05:00 - 01:31:00
+Praktek Bayati Jawab         | 1PBayati.mp3  | 01:31:00 - 02:00:00
+Praktek Bayati Jawabul Jawab | 1PBayati.mp3  | 02:01:00 - 02:52:00
+Praktek Bayati Suri          | 1PBayati.mp3  | 02:54:00 - 03:52:00
 
-# ===== SHOBA =====
-Rumus Shoba Dasar            | RShoba.mp3   | 00:02:00 - 04:30:00
-Rumus Shoba Asyiron          | RShoba.mp3   | 04:31:00 - 09:00:00
-Rumus Shoba Ajami            | RShoba.mp3   | 09:01:00 - 13:30:00
-Rumus Shoba Bustanjar        | RShoba.mp3   | 13:31:00 - 18:00:00
+# ===== 2. SHOBA =====
+Rumus Shoba Dasar            | 2RShoba.mp3   | 00:02:00 - 04:30:00
+Rumus Shoba Asyiron          | 2RShoba.mp3   | 04:31:00 - 09:00:00
+Rumus Shoba Ajami            | 2RShoba.mp3   | 09:01:00 - 13:30:00
+Rumus Shoba Bustanjar        | 2RShoba.mp3   | 13:31:00 - 18:00:00
 
-Praktek Shoba Dasar          | PShoba.mp3   | 00:02:00 - 04:30:00
-Praktek Shoba Asyiron        | PShoba.mp3   | 04:31:00 - 09:00:00
-Praktek Shoba Ajami          | PShoba.mp3   | 09:01:00 - 13:30:00
-Praktek Shoba Bustanjar      | PShoba.mp3   | 13:31:00 - 18:00:00
+Praktek Shoba Dasar          | 2PShoba.mp3   | 00:02:00 - 04:30:00
+Praktek Shoba Asyiron        | 2PShoba.mp3   | 04:31:00 - 09:00:00
+Praktek Shoba Ajami          | 2PShoba.mp3   | 09:01:00 - 13:30:00
+Praktek Shoba Bustanjar      | 2PShoba.mp3   | 13:31:00 - 18:00:00
 
-# ===== HIJAZ =====
-Rumus Hijaz Dasar            | RHijaz.mp3   | 00:02:00 - 04:20:00
-Rumus Hijaz Nawa Kard        | RHijaz.mp3   | 04:21:00 - 08:40:00
-Rumus Hijaz Kard Kurd        | RHijaz.mp3   | 08:41:00 - 13:00:00
-Rumus Hijaz Variasi          | RHijaz.mp3   | 13:01:00 - 17:20:00
+# ===== 3. HIJAZ =====
+Rumus Hijaz Dasar            | 3RHijaz.mp3   | 00:02:00 - 04:20:00
+Rumus Hijaz Nawa Kard        | 3RHijaz.mp3   | 04:21:00 - 08:40:00
+Rumus Hijaz Kard Kurd        | 3RHijaz.mp3   | 08:41:00 - 13:00:00
+Rumus Hijaz Variasi          | 3RHijaz.mp3   | 13:01:00 - 17:20:00
 
-Praktek Hijaz Dasar          | PHijaz.mp3   | 00:02:00 - 04:20:00
-Praktek Hijaz Nawa Kard      | PHijaz.mp3   | 04:21:00 - 08:40:00
-Praktek Hijaz Kard Kurd      | PHijaz.mp3   | 08:41:00 - 13:00:00
-Praktek Hijaz Variasi        | PHijaz.mp3   | 13:01:00 - 17:20:00
+Praktek Hijaz Dasar          | 3PHijaz.mp3   | 00:02:00 - 04:20:00
+Praktek Hijaz Nawa Kard      | 3PHijaz.mp3   | 04:21:00 - 08:40:00
+Praktek Hijaz Kard Kurd      | 3PHijaz.mp3   | 08:41:00 - 13:00:00
+Praktek Hijaz Variasi        | 3PHijaz.mp3   | 13:01:00 - 17:20:00
 
-# ===== NAHAWAND =====
-Rumus Nahawand Asli          | RNahawand.mp3 | 00:02:00 - 04:15:00
-Rumus Nahawand Mutawasith    | RNahawand.mp3 | 04:16:00 - 08:30:00
-Rumus Nahawand Jawab         | RNahawand.mp3 | 08:31:00 - 12:45:00
-Rumus Nahawand Jawabul Jawab | RNahawand.mp3 | 12:46:00 - 17:00:00
-Rumus Nahawand Iroqi         | RNahawand.mp3 | 17:01:00 - 21:15:00
+# ===== 4. NAHAWAND =====
+Rumus Nahawand Asli          | 4RNahawand.mp3 | 00:02:00 - 04:15:00
+Rumus Nahawand Mutawasith    | 4RNahawand.mp3 | 04:16:00 - 08:30:00
+Rumus Nahawand Jawab         | 4RNahawand.mp3 | 08:31:00 - 12:45:00
+Rumus Nahawand Jawabul Jawab | 4RNahawand.mp3 | 12:46:00 - 17:00:00
+Rumus Nahawand Iroqi         | 4RNahawand.mp3 | 17:01:00 - 21:15:00
 
-Praktek Nahawand Asli        | PNahawand.mp3 | 00:02:00 - 04:15:00
-Praktek Nahawand Mutawasith  | PNahawand.mp3 | 04:16:00 - 08:30:00
-Praktek Nahawand Jawab       | PNahawand.mp3 | 08:31:00 - 12:45:00
-Praktek Nahawand Jawabul Jawab| PNahawand.mp3| 12:46:00 - 17:00:00
-Praktek Nahawand Iroqi       | PNahawand.mp3 | 17:01:00 - 21:15:00
+Praktek Nahawand Asli        | 4PNahawand.mp3 | 00:02:00 - 04:15:00
+Praktek Nahawand Mutawasith  | 4PNahawand.mp3 | 04:16:00 - 08:30:00
+Praktek Nahawand Jawab       | 4PNahawand.mp3 | 08:31:00 - 12:45:00
+Praktek Nahawand Jawabul Jawab| 4PNahawand.mp3| 12:46:00 - 17:00:00
+Praktek Nahawand Iroqi       | 4PNahawand.mp3 | 17:01:00 - 21:15:00
 
-# ===== ROST =====
-Rumus Rost Qoror             | RRost.mp3    | 00:02:00 - 04:10:00
-Rumus Rost Nawa              | RRost.mp3    | 04:11:00 - 08:20:00
-Rumus Rost Jawab             | RRost.mp3    | 08:21:00 - 12:30:00
-Rumus Rost Quflah Janjiron   | RRost.mp3    | 12:31:00 - 16:40:00
+# ===== 5. ROST =====
+Rumus Rost Qoror             | 5RRost.mp3    | 00:02:00 - 04:10:00
+Rumus Rost Nawa              | 5RRost.mp3    | 04:11:00 - 08:20:00
+Rumus Rost Jawab             | 5RRost.mp3    | 08:21:00 - 12:30:00
+Rumus Rost Quflah Janjiron   | 5RRost.mp3    | 12:31:00 - 16:40:00
 
-Praktek Rost Qoror           | PRost.mp3    | 00:02:00 - 04:10:00
-Praktek Rost Nawa            | PRost.mp3    | 04:11:00 - 08:20:00
-Praktek Rost Jawab           | PRost.mp3    | 08:21:00 - 12:30:00
-Praktek Rost Quflah Janjiron | PRost.mp3    | 12:31:00 - 16:40:00
+Praktek Rost Qoror           | 5PRost.mp3    | 00:02:00 - 04:10:00
+Praktek Rost Nawa            | 5PRost.mp3    | 04:11:00 - 08:20:00
+Praktek Rost Jawab           | 5PRost.mp3    | 08:21:00 - 12:30:00
+Praktek Rost Quflah Janjiron | 5PRost.mp3    | 12:31:00 - 16:40:00
 
-# ===== JIHARKAH =====
-Rumus Jiharkah Qoror         | RJiharkah.mp3| 00:02:00 - 04:25:00
-Rumus Jiharkah Nawa          | RJiharkah.mp3| 04:26:00 - 08:50:00
-Rumus Jiharkah Jawab         | RJiharkah.mp3| 08:51:00 - 13:15:00
-Rumus Jiharkah Lanjutan      | RJiharkah.mp3| 13:16:00 - 17:40:00
+# ===== 6. JIHARKAH =====
+Rumus Jiharkah Qoror         | 6RJiharkah.mp3| 00:02:00 - 04:25:00
+Rumus Jiharkah Nawa          | 6RJiharkah.mp3| 04:26:00 - 08:50:00
+Rumus Jiharkah Jawab         | 6RJiharkah.mp3| 08:51:00 - 13:15:00
+Rumus Jiharkah Lanjutan      | 6RJiharkah.mp3| 13:16:00 - 17:40:00
 
-Praktek Jiharkah Qoror       | PJiharkah.mp3| 00:02:00 - 04:25:00
-Praktek Jiharkah Nawa        | PJiharkah.mp3| 04:26:00 - 08:50:00
-Praktek Jiharkah Jawab       | PJiharkah.mp3| 08:51:00 - 13:15:00
-Praktek Jiharkah Lanjutan    | PJiharkah.mp3| 13:16:00 - 17:40:00
+Praktek Jiharkah Qoror       | 6PJiharkah.mp3| 00:02:00 - 04:25:00
+Praktek Jiharkah Nawa        | 6PJiharkah.mp3| 04:26:00 - 08:50:00
+Praktek Jiharkah Jawab       | 6PJiharkah.mp3| 08:51:00 - 13:15:00
+Praktek Jiharkah Lanjutan    | 6PJiharkah.mp3| 13:16:00 - 17:40:00
 
-# ===== SIKA =====
-Rumus Sika Dasar             | RSika.mp3    | 00:02:00 - 04:05:00
-Rumus Sika Iroqi             | RSika.mp3    | 04:06:00 - 08:10:00
-Rumus Sika Turki Jawab       | RSika.mp3    | 08:11:00 - 12:15:00
-Rumus Sika Romala            | RSika.mp3    | 12:16:00 - 16:20:00
+# ===== 7. SIKA =====
+Rumus Sika Dasar             | 7RSika.mp3    | 00:02:00 - 04:05:00
+Rumus Sika Iroqi             | 7RSika.mp3    | 04:06:00 - 08:10:00
+Rumus Sika Turki Jawab       | 7RSika.mp3    | 08:11:00 - 12:15:00
+Rumus Sika Romala            | 7RSika.mp3    | 12:16:00 - 16:20:00
 
-Praktek Sika Dasar           | PSika.mp3    | 00:02:00 - 04:05:00
-Praktek Sika Iroqi           | PSika.mp3    | 04:06:00 - 08:10:00
-Praktek Sika Turki Jawab     | PSika.mp3    | 08:11:00 - 12:15:00
-Praktek Sika Romala          | PSika.mp3    | 12:16:00 - 16:20:00
+Praktek Sika Dasar           | 7PSika.mp3    | 00:02:00 - 04:05:00
+Praktek Sika Iroqi           | 7PSika.mp3    | 04:06:00 - 08:10:00
+Praktek Sika Turki Jawab     | 7PSika.mp3    | 08:11:00 - 12:15:00
+Praktek Sika Romala          | 7PSika.mp3    | 12:16:00 - 16:20:00
